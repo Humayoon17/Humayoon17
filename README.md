@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 - :muscle: Currently working as a freelance developer.
 - :gift_heart: Author of multiple open source projects.
 - :moneybag: Looking for new clients who wants to work with me, [contact me](mailto:humayoon_muhammadi@yahoo.com) please.
-- :trophy: 2022 Goals: Contribute and publish more open source projects.
+- :trophy: 2023 Goals: Contribute and publish more open source projects.
 - :dart: Wasting my time to save other people's time.
 
 
